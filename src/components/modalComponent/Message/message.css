@@ -1,0 +1,23 @@
+.messageBox{
+    /* width:80%; */
+    /* padding: 0.5vmax; */
+    margin: 0.1vmax; 
+    border-radius: 0.5vmax;
+    display: inline-block;
+    background-color: rgb(138, 185, 247);
+}
+.right{
+    
+    color: black;
+    font-size: medium;
+    background-color:rgb(116, 170, 240);
+    border-radius: 0.5vmax;
+    display: inline-block;
+    margin-left: 4rem !important;
+    /* padding: 5px; */
+     
+}
+.left{
+    float: left ;
+    /* background-color: rgb(66, 66, 111); */
+}
